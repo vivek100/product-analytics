@@ -1,6 +1,6 @@
 ---
 name: product-analytics
-description: Use this skill when designing, implementing, or reviewing product analytics event tracking. Triggers include: defining tracking plans, implementing PostHog or Mixpanel events, setting up user identification, designing event schemas, auditing existing tracking, or planning analytics for new features or flow changes.
+description: "Use this skill when designing, implementing, or reviewing product analytics event tracking. Triggers include: defining tracking plans, implementing PostHog or Mixpanel events, setting up user identification, designing event schemas, auditing existing tracking, or planning analytics for new features or flow changes."
 ---
 
 # Product Analytics Skill
